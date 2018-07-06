@@ -1,0 +1,6 @@
+server.port=8881
+#rabbitmq 配置
+spring.rabbitmq.host=localhost
+spring.rabbitmq.port=15672
+
+management.security.enabled=false
